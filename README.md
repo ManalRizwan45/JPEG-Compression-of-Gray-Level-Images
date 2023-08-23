@@ -1,4 +1,4 @@
-# JPEG-Compression-of-Gray-Level-Images
+JPEG Compression of Gray Level Images
 
 This Python project demonstrates an image compression and processing pipeline using Bit Plane Slicing and Discrete Cosine Transform (DCT) techniques. The code is built using libraries such as OpenCV, NumPy, SciPy, Matplotlib, and Tkinter.
 
